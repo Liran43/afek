@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
+	"ip":"NightLine32.aternos.me",
+	"port": "45923",
 	"name": "afkbot3",
-	"auto-night-skip":"true"
+	"auto-night-skip":"False"
 }
